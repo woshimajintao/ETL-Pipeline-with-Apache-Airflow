@@ -35,11 +35,11 @@ To run the application using Docker and Docker Compose, follow these steps:
 
 
 ```bash
-# Clone the repository
+# Clone the repository to the folder of ..Aiflow\dags
 git clone https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow.git specific_folder_Airflow\dags
 
 # Navigate to the project directory
-cd Airflow\dags
+cd ..Airflow\dags
 
 # Build and run the containers
 docker-compose up -d
