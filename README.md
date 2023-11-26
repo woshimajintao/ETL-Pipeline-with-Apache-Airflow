@@ -5,10 +5,10 @@
 
 (iii) In Exercise3, we added to the workflow a task that implemented sending a message to Slack after the last task.
 
-## 作者
+## Author
 
-- **Jintao Ma** - *初始工作* - [zhangsan](https://github.com/zhangsan)
-- **Xianyun Zhuang** - *后续贡献* - [lisi](https://github.com/lisi)
+- **Jintao Ma** - *ETL pipeline* - [zhangsan](https://github.com/zhangsan)
+- **Xianyun Zhuang** - *Slack Alarm* - [lisi](https://github.com/lisi)
 
 ## Installation
 
