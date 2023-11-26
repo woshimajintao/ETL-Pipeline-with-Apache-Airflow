@@ -8,7 +8,7 @@
 ## Author
 
 - **Jintao Ma** - *ETL pipeline* - [Jintao](https://github.com/woshimajintao)
-- **Xianyun Zhuang** - *Slack Alarm* - [Xianyun](https://github.com/lisi)
+- **Xianyun Zhuang** - *Slack Alarm* - [Xianyun](https://github.com/zhuangxianyun)
 
 ## System Requirements
 
