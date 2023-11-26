@@ -25,7 +25,7 @@ This project requires the following system environment:
 
 2. **Verify Docker Installation**: After installation, run `docker --version` in your command line to verify that Docker has been installed successfully.
 
-3. **Install Docker Compose (if not included)**: For Linux users, if Docker Compose is not already included, follow the official [Docker Compose installation guide](https://docs.docker.com/compose/install/).
+3. **Install Docker Compose (if not included)**: For Windows users, if Docker Compose is not already included, follow the official [Docker Compose installation guide](https://docs.docker.com/compose/install/).
 
 4. **Verify Docker Compose Installation**: Run `docker-compose --version` to ensure it is installed correctly.
 
