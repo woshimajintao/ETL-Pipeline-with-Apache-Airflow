@@ -1,2 +1,2 @@
 # screenshot
-There are some screenshot of exercise2.
+There are some execution screenshots of exercise2.
