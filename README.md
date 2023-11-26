@@ -8,8 +8,6 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/yourprojectname.git
@@ -17,11 +15,16 @@ git clone https://github.com/yourusername/yourprojectname.git
 
 ## Usage
 
+```bash
+# Run the Airflow
+docker compose up -d
+```
+
 ```python
 import foobar
 
 # returns 'words'
-foobar.pluralize('word')
+docker compose up -d
 
 # returns 'geese'
 foobar.pluralize('goose')
