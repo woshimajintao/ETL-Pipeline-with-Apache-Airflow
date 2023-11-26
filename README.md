@@ -16,22 +16,13 @@ git clone https://github.com/yourusername/yourprojectname.git
 ## Usage
 
 ```bash
-# Run the Airflow
-docker compose up -d
-```
-
-```python
-import foobar
-
-# returns 'words'
+# Run the Airflow in the Airflow Folder
 docker compose up -d
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# Close the Airflow in the Airflow Folder
+docker compose down
 ```
+
 
 ## Contributing
 
