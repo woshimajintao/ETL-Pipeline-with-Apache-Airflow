@@ -19,18 +19,30 @@ This project requires the following system environment:
 - **Docker Compose**: Required for orchestrating multi-container setups. Typically included with Docker Desktop for Windows and Mac. For Linux, follow the [installation guide](https://docs.docker.com/compose/install/).
 - **Airflow**: Stable version of [Airflow](https://airflow.apache.org/docs/apache-airflow/2.7.3/docker-compose.yaml) must be installed.
 
-## Installation
+## Docker Setup
 
-```bash
-# Clone the repository to Airflow\dags
-git clone https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow.git specific_folder_Airflow\dags
-```
+1. **Install Docker**: Visit [Docker's website](https://www.docker.com/products/docker-desktop) to download and install Docker Desktop for Windows or Mac. For Linux users, install Docker Engine following the instructions provided on the Docker website.
+
+2. **Verify Docker Installation**: After installation, run `docker --version` in your command line to verify that Docker has been installed successfully.
+
+3. **Install Docker Compose (if not included)**: For Linux users, if Docker Compose is not already included, follow the official [Docker Compose installation guide](https://docs.docker.com/compose/install/).
+
+4. **Verify Docker Compose Installation**: Run `docker-compose --version` to ensure it is installed correctly.
+
 
 ## Usage
+To run the application using Docker and Docker Compose, follow these steps:
+
 
 ```bash
-# Run the Airflow in the Airflow Folder
-docker compose up -d
+# Clone the repository
+git clone https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow.git specific_folder_Airflow\dags
+
+# Navigate to the project directory
+cd Airflow\dags
+
+# Build and run the containers
+docker-compose up -d
 
 # Close the Airflow in the Airflow Folder
 docker compose down
