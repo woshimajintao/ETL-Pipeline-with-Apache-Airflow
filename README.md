@@ -21,13 +21,13 @@ This project requires the following system environment:
 
 ## Docker Setup
 
-1. **Install Docker**: Visit [Docker's website](https://www.docker.com/products/docker-desktop) to download and install Docker Desktop for Windows or Mac. For Linux users, install Docker Engine following the instructions provided on the Docker website.
+- **Install Docker**: Visit [Docker's website](https://www.docker.com/products/docker-desktop) to download and install Docker Desktop for Windows or Mac. For Linux users, install Docker Engine following the instructions provided on the Docker website.
 
-2. **Verify Docker Installation**: After installation, run `docker --version` in your command line to verify that Docker has been installed successfully.
+- **Verify Docker Installation**: After installation, run `docker --version` in your command line to verify that Docker has been installed successfully.
 
-3. **Install Docker Compose (if not included)**: For Windows users, if Docker Compose is not already included, follow the official [Docker Compose installation guide](https://docs.docker.com/compose/install/).
+- **Install Docker Compose (if not included)**: For Windows users, if Docker Compose is not already included, follow the official [Docker Compose installation guide](https://docs.docker.com/compose/install/).
 
-4. **Verify Docker Compose Installation**: Run `docker-compose --version` to ensure it is installed correctly.
+- **Verify Docker Compose Installation**: Run `docker-compose --version` to ensure it is installed correctly.
 
 
 ## Usage
