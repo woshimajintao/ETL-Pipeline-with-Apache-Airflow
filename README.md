@@ -10,6 +10,15 @@
 - **Jintao Ma** - *ETL pipeline* - [Jintao](https://github.com/woshimajintao)
 - **Xianyun Zhuang** - *Slack Alarm* - [Xianyun](https://github.com/lisi)
 
+## System Requirements
+
+This project requires the following system environment:
+- **Operating System**: Windows 10 or higher
+- **Python Version**: Python 3.0 or higher
+- **Docker**: Latest version of [Docker](https://www.docker.com/products/docker-desktop) must be installed.
+- **Docker Compose**: Required for orchestrating multi-container setups. Typically included with Docker Desktop for Windows and Mac. For Linux, follow the [installation guide](https://docs.docker.com/compose/install/).
+- **Airflow**: Stable version of [Airflow](https://airflow.apache.org/docs/apache-airflow/2.7.3/docker-compose.yaml) must be installed.
+
 ## Installation
 
 ```bash
