@@ -11,7 +11,8 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+# Clone the repository
+git clone https://github.com/yourusername/yourprojectname.git
 ```
 
 ## Usage
