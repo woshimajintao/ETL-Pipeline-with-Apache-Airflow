@@ -14,7 +14,7 @@
 
 ```bash
 # Clone the repository to Airflow\dags
-git clone https://github.com/yourusername/yourprojectname.git specific_folder_Airflow\dags
+git clone https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow.git specific_folder_Airflow\dags
 ```
 
 ## Usage
