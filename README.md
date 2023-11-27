@@ -5,7 +5,7 @@
 
 - **Exercise3** :We added to the workflow a task that implemented sending a message to Slack after the last task.
 
-## Author
+## Contributors
 
 - **Jintao Ma** - *ETL Pipeline* - [Jintao](https://github.com/woshimajintao)
 - **Xianyun Zhuang** - *Slack Message* - [Xianyun](https://github.com/zhuangxianyun)
