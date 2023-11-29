@@ -47,7 +47,23 @@ docker-compose up -d
 # Close the Airflow in the Airflow Folder
 docker compose down
 ```
+## Files
 
+- **docker-compose.yaml**: dokcer configuration file.
+
+- **log.txt**: web server log file.
+
+- **extracted_data.txt**:the ipaddress field extracted from the web server log file.
+
+- **transformed_data.txt**: the file filtered out all the occurrences of ipaddress 198.46.149.143 .
+
+- **weblog.tar**: archived transformed_data.txt.
+
+- **process_web_log.py**: Creat a DAG in Exercise1.
+
+- **scan_extract_transform_load_message.py**: Add to the workflow an additional task in Exercise3.
+
+- **Management_Business_DataScience_Workflows_Assignment3.pdf**:Our report and summary file.
 
 ## Contributing
 
