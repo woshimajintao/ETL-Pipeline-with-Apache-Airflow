@@ -49,15 +49,15 @@ docker compose down
 ```
 ## Files
 
-- **docker-compose.yaml**: dokcer configuration file.
+- **docker-compose.yaml**: Dokcer configuration file.
 
-- **log.txt**: web server log file.
+- **log.txt**: Web server log file.
 
-- **extracted_data.txt**:the ipaddress field extracted from the web server log file.
+- **extracted_data.txt**:The ipaddress field extracted from the web server log file.
 
-- **transformed_data.txt**: the file filtered out all the occurrences of ipaddress 198.46.149.143 .
+- **transformed_data.txt**: The file filtered out all the occurrences of ipaddress 198.46.149.143 .
 
-- **weblog.tar**: archived transformed_data.txt.
+- **weblog.tar**: Archived transformed_data.txt.
 
 - **process_web_log.py**: Creat a DAG in Exercise1.
 
