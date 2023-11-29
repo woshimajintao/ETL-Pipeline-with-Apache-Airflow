@@ -1,7 +1,7 @@
 # ETL-Pipeline-with-Apache-Airflow
 - **Exercise1**:We finished the process_web_log data pipeline process with 4 tasks.
 
-- **Exercise2** :We did test runs for each of the tasks we defined and a test run for the workflow.Additionally, we triggered the workflow and monitored a few runs. Document the test runs with our findings or observations from the runs.
+- **Exercise2** :We did test runs for each of the tasks we defined and a test run for the workflow.Additionally, we triggered the workflow and monitored a few runs. Document the test runs with our [findings or observations](https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow/tree/main/Exercise2) from the runs.
 
 - **Exercise3** :We added to the workflow a task that implemented sending a message to Slack after the last task.
 
