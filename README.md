@@ -1,5 +1,5 @@
 # ETL-Pipeline-with-Apache-Airflow
-- **Exercise1**:We finished the [process_web_log data](https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow/blob/main/process_web_log.py) pipeline process with 4 tasks.
+- **Exercise1**:We finished the [process_web_log data](https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow/blob/main/process_web_log.py) pipeline process with [4 tasks](https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow/tree/main/Data%20Files%20in%20Different%20Peirods).
 
 - **Exercise2** :We did test runs for each of the tasks we defined and a test run for the workflow.Additionally, we triggered the workflow and monitored a few runs. Document the test runs with our [findings or observations](https://github.com/woshimajintao/ETL-Pipeline-with-Apache-Airflow/tree/main/Exercise2) from the runs.
 
